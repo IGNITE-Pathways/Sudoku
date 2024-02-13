@@ -24,6 +24,6 @@ def four_point_transform(self, image, rect, dst, width, height):
 
 ## Backpropagation to solve Sudoku 
 Turns out there are many ways to automatically solve a Sudoku. I like the back-propagation algorithm as it is simple and works every time. It also makes the animation on Pygame very interesting. 
+<img width="1289" alt="Soduku1" src="https://github.com/IGNITE-Pathways/Sudoku/assets/75178927/7e175e81-37fd-4895-b1e1-336aa4215917">
 
-![Sudoku Solver](https://video.wixstatic.com/video/9c8449_cb913ce96a014e07b1bcf7c261d64b2e/1080p/mp4/file.mp4)
 
