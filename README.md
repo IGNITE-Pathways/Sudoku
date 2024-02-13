@@ -1,2 +1,2 @@
-# Sudoku
-Solve any Sudoku in seconds
+# Solve any Sudoku in seconds
+Sudoku, the popular number puzzle game, is not just a test of logic but also a great exercise in problem-solving for programmers. As someone deeply passionate about software development and AI, I took on the challenge of creating a program that could solve any Sudoku puzzle. Little did I know the journey ahead would be filled with numerous challenges, each requiring its own unique solution.
